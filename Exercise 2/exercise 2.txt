@@ -1,0 +1,7 @@
+XML tags are not predefined, we can define them ourselves it is designed to be self
+descriptive.
+It is designed to carry data proposed by W3C. XML wants to describe information
+HTML is to display information. It has predefined Tag.
+We also have that XML is case sensitive while HTML is case insensitive and in contrast to
+HTML, XML tags are extensible.
+Both languages are declerative Languages. HTML is a fully declarative one
