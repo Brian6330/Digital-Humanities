@@ -1,0 +1,19 @@
+{"directed": true, "multigraph": false, "graph": {}, 
+
+"nodes": [
+{"color": "red",  "value": 1, "id": "a"}, 
+{"color": "blue", "value": 2, "id": "b"}, 
+{"color": "blue", "value": 2, "id": "c"}, 
+{"color": "blue", "value": 2, "id": "d"}, 
+{"color": "blue", "value": 1, "id": "e"}, 
+{"color": "blue", "value": 1, "id": "f"}], 
+"links": 
+[
+{"color": 1,  "weight": 2,  "source": "a", "target": "b"}, 
+{"color": 2,  "weight": 6,  "source": "a", "target": "c"}, 
+{"color": 1,  "weight": 1,  "source": "b", "target": "c"}, 
+{"color": 2,  "weight": 9,  "source": "b", "target": "d"}, 
+{"color": 3,  "weight": 11, "source": "b", "target": "f"}, 
+{"color": 1,  "weight": 3,  "source": "c", "target": "e"}, 
+{"color": 1,  "weight": 2,  "source": "e", "target": "d"}, 
+{"color": 1,  "weight": 2,  "source": "d", "target": "f"}]}
